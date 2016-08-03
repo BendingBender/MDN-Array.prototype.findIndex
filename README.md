@@ -1,3 +1,5 @@
+[![browser support](https://ci.testling.com/BendingBender/MDN-Array.prototype.findIndex.png)](https://ci.testling.com/BendingBender/MDN-Array.prototype.findIndex)
+
 [![Build Status](https://travis-ci.org/BendingBender/MDN-Array.prototype.findIndex.svg?branch=master)](https://travis-ci.org/BendingBender/MDN-Array.prototype.findIndex)
 
 # ES6 `Array.prototype.findIndex` shim
