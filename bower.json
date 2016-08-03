@@ -1,0 +1,31 @@
+{
+  "name": "mdn-array.prototype.findindex",
+  "description": "MDN version of Array.prototype.findIndex shim",
+  "main": "index.js",
+  "authors": [
+    "Dimitri Benin <dimitri.benin@it-designers.de>"
+  ],
+  "license": "CC0-1.0",
+  "keywords": [
+    "mdn",
+    "polyfill",
+    "shim",
+    "array",
+    "array",
+    "prototype",
+    "array.prototype.findindex",
+    "array.findindex",
+    "findindex",
+    "es6",
+    "es2015"
+  ],
+  "homepage": "https://github.com/BendingBender/MDN-Array.prototype.findIndex",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "package.json"
+  ]
+}
