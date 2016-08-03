@@ -1,6 +1,6 @@
 {
   "name": "mdn-array.prototype.findindex",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "MDN version of Array.prototype.findIndex shim",
   "main": "index.js",
   "scripts": {
@@ -43,7 +43,9 @@
   },
   "testling": {
     "harness": "mocha-bdd",
-    "files": ["tests/testDist.js"],
+    "files": [
+      "tests/testDist.js"
+    ],
     "browsers": [
       "ie/8..latest",
       "chrome/latest",
