@@ -4,6 +4,8 @@
 
 # ES6 `Array.prototype.findIndex` shim
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BendingBender/MDN-Array.prototype.findIndex.svg)](https://greenkeeper.io/)
+
 Simple ES6 [Array.prototype.findIndex](https://tc39.github.io/ecma262/#sec-array.prototype.findindex) polyfill for older environments taken from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex#Polyfill).
 
 For browsers only, bower-friendly. Explicitly not meant to be used with node, use [Array.prototype.findIndex](https://github.com/paulmillr/Array.prototype.findIndex) if you wish a shim for node.
